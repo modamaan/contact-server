@@ -1,0 +1,92 @@
+{
+    "contacts":[
+     {
+       "id":"cal",
+       "name":"Neymar",
+       "email":"Neymar@gmail.com",
+       "photo":"https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png",
+       "mobile":" 9876543210",
+       "company":"Brazil",
+       "title":"music",
+       "groupId":"3"
+     },
+     {
+       "id":"ca2",
+       "name":"Cristiano Ronaldo",
+       "email":"Cristiano Ronaldo@gmail.com",
+       "photo":"https://ca-times.brightspotcdn.com/dims4/default/ea0faf8/2147483647/strip/true/crop/2395x1597+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F5a%2F922dfc0b4bac9f645bd01c5b885a%2Fwcup-portugal-uruguay-soccer-92176.jpg",
+       "mobile":"7890123456",
+       "company":"alnasser",
+       "title":"footbal player",
+       "groupId":"3"
+       },
+     {
+       "id":"ca3",
+       "name":"Leanne Graham",
+       "email":"LeanneGraham@gmail.com",
+       "photo":"https://static2.stuff.co.nz/1360786874/379/8302379.jpg",
+       "mobile":"1234567890",
+       "company":"samsung",
+       "title":"basket ball",
+       "groupId":"4"
+       },
+     {
+       "id":"ca4",
+       "name":"Ervin Howell",
+       "email":"ErvinHowell@gmail.com",
+       "photo":"https://www.joshuastrobl.com/imgs/Ervin%20Howell.jpg",
+       "mobile":"5678901234",
+       "company":"Allensolly",
+       "title":"chef",
+       "groupId":"3"
+     },
+     {
+       "id":"ca5",
+       "name":"Clementine Bauch",
+       "email":"ClementineBauch@gmail.com",
+       "photo":"https://www.templates-preview.com/dashboard/vueadmin-html-admin/app-assets/images/portrait/small/avatar-s-8.jpg",
+       "mobile":"9012345678",
+       "company":"LP",
+       "title":"maker",
+       "groupId":"1"
+     },
+     {
+       "id":"ca6",
+       "name":"CPatricia Lebsack",
+       "email":"PatriciaLebsack@gmail.com",
+       "photo":"https://avatars.githubusercontent.com/u/16231758?v=4",
+       "mobile":"3456789012",
+       "company":"xiomi",
+       "title":"electritian",
+       "groupId":"2"
+     },
+     {
+       "id":"ca7",
+       "name":"peter drury",
+       "email":"peterdrury@gmail.com",
+       "photo":"https://media.licdn.com/dms/image/C4D03AQHkdPX5q1EP0A/profile-displayphoto-shrink_800_800/0/1516864673162?e=2147483647&v=beta&t=_XqbXG2HcMptdUpRsKYhr4X65-VAzavY-5zHNGFJn9o",
+       "mobile":"8642097531",
+       "company":"premierLeague",
+       "title":"comontator",
+       "groupId":"1"
+     }
+    ],
+    "groups":[
+     {
+       "id":"1",
+       "name":"Friends"
+     },
+     {
+       "id":"2",
+       "name":"Family"
+     },
+     {
+       "id":"3",
+       "name":"Collegues"
+     },
+     {
+       "id":"4",
+       "name":"Social"
+     }
+    ]
+   }
